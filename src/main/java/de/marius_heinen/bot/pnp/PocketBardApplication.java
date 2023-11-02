@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PnPApplication {
+public class PocketBardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PnPApplication.class, args);
+		SpringApplication.run(PocketBardApplication.class, args);
 	}
 }
